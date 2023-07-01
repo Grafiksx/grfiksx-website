@@ -17,14 +17,12 @@ ul.box li{
     display: inline-block;
     padding: 5px;
     margin-right: 100px;
-    
- }
+ } 
  ul.box{
     list-style-type: none;
 }
 ul.box {
 margin-left: 45px;
-
 }
  ul.qwer {
 text-decoration: none;
@@ -37,7 +35,7 @@ ul.box li.sdf {
 }
 
 
-ul.box li.sdrf:hover {
+ul.box li.sdf:hover {
     --s: 0.1em;   /* the thickness of the line */
     --c: #001cf1; /* the color */
     
@@ -63,7 +61,7 @@ color: #ffff;
  }
  html {
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-background-color: rgb(224, 224, 199);
+background-color: rgb(226, 226, 217);
  }
  main div {
   display: inline-block;
