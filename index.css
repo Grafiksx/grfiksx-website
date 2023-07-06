@@ -10,10 +10,7 @@ header {
   border-radius: 10px;
   
 }
-
-
-ul.box li{
-    
+ul.box li{ 
     display: inline-block;
     padding: 5px;
     margin-right: 100px;
@@ -21,9 +18,7 @@ ul.box li{
  } 
  ul.box{
     list-style-type: none;
-}
-ul.box {
-margin-left: 45px;
+    margin-left: 45px;
 }
  ul.qwer {
 text-decoration: none;
@@ -54,7 +49,7 @@ color: #ffff;
  }
  html {
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-background-color: rgb(226, 226, 217);
+background-color: rgb(217, 224, 226);
  }
  main div {
   display: inline-block;
